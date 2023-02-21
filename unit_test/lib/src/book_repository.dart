@@ -1,5 +1,5 @@
 
-import 'package:belajar_dart_unit_test/src/book.dart';
+import 'package:unit_test/src/book.dart';
 
 class BookRepository {
 

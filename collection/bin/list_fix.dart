@@ -1,4 +1,6 @@
 void main(){
+
+  //filled digunakan untuk membuat list dengan jumlah data yang sudah ditentukan
   final list = List<int>.filled(10, 0);
 
   // list.add(100); ERROR

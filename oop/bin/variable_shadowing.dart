@@ -1,4 +1,9 @@
 
+
+/// Variable Shadowing 
+/// is a variable with the same name as another variable in the same scope
+/// 
+
 class Person {
 
   String name = "Guest";

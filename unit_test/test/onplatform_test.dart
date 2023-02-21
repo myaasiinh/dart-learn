@@ -3,6 +3,10 @@
   "windows" : Skip("this test not working in mac os")
 })
 
+
+/// onPlatform() is used to skip the test based on the platform.
+/// 
+
 import 'package:test/test.dart';
 
 int sum(int a, int b) => a + b;

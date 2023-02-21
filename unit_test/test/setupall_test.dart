@@ -1,5 +1,10 @@
 import 'package:test/test.dart';
 
+
+/// setUpAll() is used to set up the test.
+/// 
+/// setUpAll() is used to set up the test before the test is executed.
+
 void main(){
 
   var data = "Eko";

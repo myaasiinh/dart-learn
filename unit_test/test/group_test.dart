@@ -1,6 +1,11 @@
 import 'package:test/expect.dart';
 import 'package:test/scaffolding.dart';
 
+
+/// group() is used to group the tests.
+/// 
+/// group() is used to group the tests. It is used to group the tests based on the functionality.
+
 int sum(int a, int b) => a + b;
 
 void main() {

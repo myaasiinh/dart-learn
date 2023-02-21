@@ -1,6 +1,10 @@
 
 import 'package:test/test.dart';
 
+/// Matcher is used to compare the result of a function with an expected value.
+/// 
+
+
 String sayHello(String name){
   return "Hello $name";
 }

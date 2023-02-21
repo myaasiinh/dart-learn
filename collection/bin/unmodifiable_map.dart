@@ -1,5 +1,10 @@
 import 'dart:collection';
 
+
+/// UnmodifiableMapView adalah struktur data yang mirip dengan [Map] namun tidak bisa diubah
+/// karena menggunakan [UnmodifiableMapView] sebagai implementasinya yang tidak bisa diubah nilainya
+/// hanya bisa dibaca saja (immutable)
+
 void main(){
 
   final Map<String, String> person = {

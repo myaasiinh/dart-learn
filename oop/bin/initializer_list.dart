@@ -1,5 +1,12 @@
 
 
+/// Initializer List
+/// digunakan untuk menginisialisasi variabel
+/// pada saat pembuatan object
+/// 
+/// contoh : constructor dengan initializer list untuk menginisialisasi variabel
+/// fullName, firstName, lastName
+
 class Customer {
 
   String firstName = '';

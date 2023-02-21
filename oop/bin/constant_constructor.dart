@@ -1,4 +1,8 @@
 
+/// Constant Constructor in Dart
+/// used to create immutable object
+/// 
+
 class ImmutablePoint {
 
   final int x;

@@ -1,7 +1,7 @@
 import 'data/mydata.dart';
 
 
-//type checking with is use for sample case in 
+//type checking with is use for sample case if true condition
 void check(dynamic data) {
   if (data is MyData<String>) {
     print('MyData<String>');

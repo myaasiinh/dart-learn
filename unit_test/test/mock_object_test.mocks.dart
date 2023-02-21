@@ -3,8 +3,8 @@
 // Do not manually edit this file.
 
 // ignore_for_file: no_leading_underscores_for_library_prefixes
-import 'package:belajar_dart_unit_test/src/book.dart' as _i3;
-import 'package:belajar_dart_unit_test/src/book_repository.dart' as _i2;
+import 'package:unit_test/src/book.dart' as _i3;
+import 'package:unit_test/src/book_repository.dart' as _i2;
 import 'package:mockito/mockito.dart' as _i1;
 
 // ignore_for_file: type=lint

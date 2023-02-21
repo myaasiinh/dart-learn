@@ -1,6 +1,9 @@
 
 import 'data/sum.dart';
 
+/// typedef 
+
+
 void main(){
 
   var jumlah = Jumlah(10, 10);

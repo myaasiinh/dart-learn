@@ -1,5 +1,13 @@
 
+
+
 import 'data/rectangle.dart';
+
+/// Getter and Setter in Dart Programming Language
+/// Getter and Setter is used to read and write the value of a property.
+/// 
+/// Getter is used to read the value of a property.
+/// Setter is used to write the value of a property.
 
 void main(){
 

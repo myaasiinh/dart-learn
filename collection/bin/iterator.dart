@@ -5,9 +5,12 @@ void main(){
     print(name);
   }
 
+  //Iterator digunakan untuk mengelola data dengan cara manual
   final iterator = names.iterator;
 
+  //moveNext digunakan untuk mengecek apakah data masih ada atau tidak
   while (iterator.moveNext()) {
+    //current digunakan untuk mengambil data yang sedang aktif
     print(iterator.current);
   }
 }

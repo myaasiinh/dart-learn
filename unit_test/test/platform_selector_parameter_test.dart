@@ -2,6 +2,9 @@
 import 'package:test/expect.dart';
 import 'package:test/scaffolding.dart';
 
+/// platformSelectorParameter() is used to run the test on a specific platform.
+/// 
+
 int sum(int a, int b) => a + b;
 
 void main() {

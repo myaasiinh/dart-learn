@@ -1,4 +1,7 @@
 
+/// Class adalah sebuah blueprint atau template untuk membuat object
+
+
 class Person {
 
   String name = "Guest";

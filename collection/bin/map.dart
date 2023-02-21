@@ -1,3 +1,6 @@
+
+/// Map adalah struktur data yang menyimpan data dengan key dan value
+
 void main(){
 
   final Map<String, String> person = {

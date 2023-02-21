@@ -1,4 +1,7 @@
 
+
+/// this keyword digunakan untuk mengakses properti dan method pada class yang sama
+
 class Person {
 
   String name = "Guest";

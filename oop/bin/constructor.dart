@@ -1,4 +1,8 @@
 
+/// Constructor adalah method yang akan dipanggil pertama kali saat object dibuat
+
+
+
 class Person {
 
   String name = "Guest";

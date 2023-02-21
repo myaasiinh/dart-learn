@@ -4,6 +4,10 @@
 import 'package:test/expect.dart';
 import 'package:test/scaffolding.dart';
 
+
+/// skip is used to skip the test.
+
+
 int sum(int a, int b) => a + b;
 
 void main() {

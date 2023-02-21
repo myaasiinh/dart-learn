@@ -1,4 +1,7 @@
 
+/// Object is the root of the class hierarchy. Every class in Dart inherits from Object implicitly.
+/// 
+
 class Person {}
 
 void main(){

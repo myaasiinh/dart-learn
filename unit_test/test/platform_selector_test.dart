@@ -1,6 +1,11 @@
 
 @TestOn("windows || mac-os || linux")
 
+/// palatformSelector() is used to run the test on a specific platform.
+
+
+
+
 import 'package:test/expect.dart';
 import 'package:test/scaffolding.dart';
 

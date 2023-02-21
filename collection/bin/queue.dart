@@ -1,5 +1,7 @@
 import 'dart:collection';
-
+/// Queue adalah struktur data yang mirip dengan [List] namun
+/// hanya bisa diakses dari depan dan belakang saja
+/// 
 void main(){
 
   final queue = Queue<String>();

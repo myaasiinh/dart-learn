@@ -1,4 +1,9 @@
 
+
+/// Cascade Notation (..)
+/// Cascade Notation (..) digunakan untuk memanggil method atau property
+
+
 class User {
   String? username;
   String? name;

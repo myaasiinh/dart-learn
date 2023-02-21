@@ -1,3 +1,12 @@
+
+
+
+/// Exception
+/// 
+/// Exception adalah sebuah class yang digunakan untuk menangani error
+/// pada saat runtime
+/// 
+
 class ValidationException implements Exception {
   String message;
 

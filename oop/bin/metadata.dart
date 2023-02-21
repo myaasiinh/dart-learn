@@ -1,4 +1,10 @@
 
+
+/// Metadata
+/// Metadata is a data about data that describes the data.
+/// Metadata is used to add additional information to a class, method, or variable.
+/// 
+
 class Sample {
 
   @override
@@ -6,6 +12,7 @@ class Sample {
     return "Sample";
   }
 
+/// Deprecated is used to mark a class, method, or variable as deprecated. this is metadata
   @Deprecated('Do not use this anymore')
   void doNotUseThis(){
 

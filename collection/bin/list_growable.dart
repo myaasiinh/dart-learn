@@ -1,3 +1,7 @@
+
+
+// List is a growable collection of objects in which duplicate values are allowed.
+
 void main(){
   final list = <int>[];
 

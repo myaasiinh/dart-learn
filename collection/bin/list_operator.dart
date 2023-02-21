@@ -1,3 +1,7 @@
+
+/// List Operator in Dart used to combine two list
+/// into one list
+
 void main(){
 
   final names = ["Eko", "Kurniawan", "KHannedy"];

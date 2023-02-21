@@ -1,4 +1,12 @@
 
+
+/// Type Check and Casts
+/// Type check and casts digunakan untuk mengecek apakah suatu object merupakan
+/// instance dari suatu class tertentu atau tidak. Jika iya, maka kita bisa melakukan
+/// casting object tersebut ke class tersebut.
+/// contoh : is dan as
+
+
 class Employee {
   String name;
   Employee(this.name);

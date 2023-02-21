@@ -2,6 +2,9 @@
 
 import 'data/product.dart';
 
+/// toString() is used to convert an object to string
+/// 
+
 void main(){
   var product = Product();
   product.id = '1';

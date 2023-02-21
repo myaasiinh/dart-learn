@@ -1,5 +1,7 @@
 import 'dart:collection';
 
+
+
 class Category implements Comparable<Category>{
   String id;
   String name;
@@ -17,6 +19,12 @@ class Category implements Comparable<Category>{
   }
 }
 
+
+//comparable digunakan untuk mengurutkan data yang ada di dalam collection
+//dengan cara mengimplementasikan interface Comparable
+//dan mengimplementasikan method compareTo untuk mengurutkan data
+//dengan cara mengimplementasikan method compareTo maka kita bisa mengurutkan data
+//dengan cara yang kita inginkan sesuai dengan kebutuhan
 void main(){
 
   final treeSet = SplayTreeSet<Category>();

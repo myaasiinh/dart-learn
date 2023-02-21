@@ -1,6 +1,10 @@
 
 import 'data/category.dart';
 
+/// equals() is used to compare two objects
+/// 
+/// The == operator is used to compare two objects.
+
 void main(){
 
   var category1 = Category("1", "Laptop");

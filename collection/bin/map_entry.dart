@@ -1,3 +1,6 @@
+
+/// Map Entry adalah sebuah objek yang menyimpan key dan value dari sebuah map
+
 void main(){
 
   final Map<String, String> person = {

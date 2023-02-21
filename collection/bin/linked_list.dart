@@ -1,5 +1,12 @@
 import 'dart:collection';
 
+/// LinkedList adalah struktur data yang mirip dengan [List] namun memiliki performa yang lebih baik
+/// ketika melakukan operasi seperti [add], [remove], [contains], dan lainnya karena menggunakan
+/// [LinkedListEntry] sebagai implementasinya yang memiliki performa yang lebih baik ketika melakukan
+/// operasi seperti [add], [remove], [containsKey], [containsValue], [[]] dan lainnya karena
+/// 
+
+
 class StringEntry extends LinkedListEntry<StringEntry>{
   String value;
 
