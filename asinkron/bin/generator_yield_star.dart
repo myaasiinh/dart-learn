@@ -1,3 +1,10 @@
+
+/// Generator yield* 
+/// 
+/// used to yield the data from another generator
+/// 
+/// 
+
 Stream<int> doubleNumber(int number) async* {
   yield number;
   yield number;

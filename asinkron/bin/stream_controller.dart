@@ -1,5 +1,9 @@
 import 'dart:async';
 
+/// StreamController is used to create a stream.
+/// 
+/// 
+
 void longRunningStream(void Function(String) onNext,
     void Function(Error?) onError, void Function() onDone) {
   // contoh function callback

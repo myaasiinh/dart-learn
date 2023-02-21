@@ -1,3 +1,9 @@
+
+
+/// future try catch finally
+/// 
+/// used to handle error in future
+
 Future<String> sayHello(String name) {
   // return Future.value("Hello $name");
   return Future.error(Exception("Ups"));

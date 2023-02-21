@@ -1,3 +1,11 @@
+
+/// Future Transform
+/// 
+/// Future Transform adalah cara untuk melakukan transformasi
+/// dari hasil proses asinkron dengan menggunakan fungsi then()
+/// 
+/// 
+
 Future<String> name() {
   return Future.value("Eko Kurniawan Khannedy");
 }

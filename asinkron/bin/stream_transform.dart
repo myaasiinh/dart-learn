@@ -1,3 +1,9 @@
+/// Stream Transform
+/// 
+/// Stream Transform adalah cara untuk melakukan transformasi pada stream
+/// 
+/// 
+
 Stream<int> numbers() {
   return Stream.fromIterable([1, 2, 3, 4, 5, 6, 7, 8, 9, 10]);
 }
